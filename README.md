@@ -24,10 +24,6 @@ This eKYC module can be implemented in various industries, including:
 
 By using video-based eKYC, businesses can reduce fraud, improve user experience, and meet regulatory requirements for identity verification in digital transactions.
 
-**_Latest Updates_** 🔥
-- [2024/12] [Initial Project Development] Simple pose challenge.
-- [2024/12] [Reference] Implementation of realtime head pose detection project for eKYC module: [Github - Realtime Head Pose Detection](https://github.com/hanifabd/realtime-head-pose-detection)
-
 ## **How to Run App**
 1. Start Pose Detector Application
     ```sh
